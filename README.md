@@ -5,7 +5,7 @@ Server: Node.js with Express.js
 
 Database is Mongodb, and data are validated.
 
-Testing is proper rendering of components and check occurrence of key elements. 
+Testing is proper rendering of components and check occurrence of key elements (Jest and Enzyme). 
 
 Data are fetch from database and displaying online in table format.
 
