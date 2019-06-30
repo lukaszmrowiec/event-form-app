@@ -11,6 +11,8 @@ Data are fetch from database and displaying online in table format.
 
 ### Install
 
+Download or clone this repository.
+
 In directory 'event-form-app': yarn install or npm install.
 
 Next go to client and also install dependencies by running 'yarn install' or 'npm install'.
