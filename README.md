@@ -17,4 +17,4 @@ Next go to client and also install dependencies by running 'yarn install' or 'np
 
 ## Launching the application
 
-In directory 'event-form-app' run yarn run dev or npm run dev.
+In directory 'event-form-app' run 'yarn run dev' or 'npm run dev'.
