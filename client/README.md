@@ -2,6 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-# `npm test or yarn test`
+### `npm test or yarn test`
 
 than e.g. 'Press a to run all tests'.
